@@ -10,12 +10,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,vscode,&perline=6)](https://github.com/BinaryLeo)
 
-![Animaçãok](https://user-images.githubusercontent.com/72607039/189801948-9807caa7-49e4-449c-b693-4b87337176fe.gif)
+
+
+
+https://user-images.githubusercontent.com/72607039/190022724-7f0621b0-fe10-4066-a5a5-20c295bbfebc.mp4
+
+
+![Captura de tela 2022-09-13 194850](https://user-images.githubusercontent.com/72607039/190022733-a15faf9d-2947-46da-8a23-9a2876a9237a.png)
 
 
 
 </div>
-
 
 
 ## ✅ Technologies and libs
